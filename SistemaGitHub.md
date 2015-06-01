@@ -5,7 +5,9 @@
 * [Creacion de Archivo .md y configuracion de la cuenta con **git config**]()
 * [Preparar archivo para subir y colocar mensaje con **git commit**]()
 * [Subir el archivo al repositorio con **git push**]()
+
 * * *
+
 # CREAR REPOSITORIO
 Para crear un repositorio dentro de la pagina de GitHub seguimos los siguientes pasos:
 * click en el icono o simbolo mas (+)
